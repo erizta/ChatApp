@@ -1,2 +1,2 @@
 # Chat App
-A multiplateform Client-Server Chat application unsing sockets in Qt C++
+A multiplateform Client-Server Chat application using sockets in Qt C++
